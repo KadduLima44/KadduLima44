@@ -121,14 +121,6 @@ Me chamo Kaddu Feliph de Lima Menezes, tenho 25 anos e sou nascido em Campinas �
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KadduLima44&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400
-" 
-  />
 
 <img 
       align="left" 
