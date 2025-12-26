@@ -19,6 +19,11 @@ Me chamo Kaddu Feliph de Lima Menezes, tenho 25 anos e sou nascido em Campinas â
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/KadduLima44?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" src="https://www.youtube.com/@kaddudelima8737" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  src="https://www.linkedin.com/in/kaddu-feliph-de-lima-menezes-92ab301b6/"/>
+</div>
     </a>
 </p>
 
